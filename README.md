@@ -2,7 +2,7 @@
 
 <h1 align="center">Abdellah</h1>
 
-<img src="./assets/hero-lab.svg" width="100%" alt="Animated illustration of a developer desk, laptop terminal, and coffee"/>
+<img src="./assets/hero-banner.svg" width="100%" alt="Animated illustration of a developer desk, laptop terminal, and coffee"/>
 
 <p>
   <strong>Full-stack developer · UI tinkerer · Linux enthusiast</strong>
@@ -33,6 +33,34 @@
 Hey! I'm **Abdellah Mouida**. I'm interested in the space where software engineering meets good product design: polished interfaces, reliable backends, useful tools, and the small interactions that make an app feel alive.
 
 I enjoy building across different layers of the stack. One day that might mean a bilingual web platform with Arabic RTL support; another day it might be a Python terminal app, an Android UI experiment, or a Linux workflow that saves a few keystrokes.
+
+### \`terminal.session\` / a peek inside my shell
+
+\`\`\`bash
+abdellah@ubuntu:~$ whoami
+Abdellah Mouida
+
+abdellah@ubuntu:~$ cat ~/about.txt
+role       : full-stack developer
+focus      : web apps, UI engineering, Linux
+interests  : 3D, motion, open source, automation
+languages  : Arabic / English · RTL / LTR
+
+abdellah@ubuntu:~$ cat ~/stack.txt
+TypeScript · React · Next.js · Node.js
+Python · Java · PostgreSQL · Prisma
+three.js · GSAP · Tailwind CSS
+
+abdellah@ubuntu:~$ ls ~/projects
+Ihya-iacsas/  zx/  XMusic/  NewPipe/
+
+abdellah@ubuntu:~$ git status --short
+ M creativity
+?? coffee.refill
+
+abdellah@ubuntu:~$ echo "keep building"
+keep building
+\`\`\`
 
 **Things I care about**
 - Thoughtful UI/UX, responsive layouts, and smooth motion.
