@@ -1,0 +1,42 @@
+name: Refresh profile visuals
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 2 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate self-hosted SVG cards
+        env:
+          GH_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile_assets.py
+
+      - name: Commit refreshed visuals
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-overview.svg assets/top-languages.svg assets/contribution-activity.svg assets/contribution-snake.svg
+          if git diff --cached --quiet; then
+            echo "No profile asset changes."
+            exit 0
+          fi
+          git commit -m "Refresh generated profile visuals"
+          git push
