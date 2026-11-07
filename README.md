@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Abdellah Mouida — full-stack developer" width="100%"/>
+<img src="[./assets/banner.svg](https://avatars.githubusercontent.com/u/152626522?s=96&v=4)" alt="Abdellah Mouida — full-stack developer" width="100%"/>
 
 <a href="https://github.com/Abdellah-mouida">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5AA0FF&center=true&vCenter=true&width=780&height=56&lines=Full-stack+developer+%7C+Next.js+%2B+React+%2B+TypeScript;Building+the+Ihyaa+community+platform;Cinematic+3D+web+%7C+three.js+%2B+GLSL;Offensive-security+mindset;Break+it.+Understand+it.+Build+it+better." alt="Typing animation of my focus areas"/>
