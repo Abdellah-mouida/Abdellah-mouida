@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets-main
+  cancel-in-progress: false
+
 jobs:
   generate:
     if: github.actor != 'github-actions[bot]'
@@ -39,4 +43,5 @@ jobs:
             exit 0
           fi
           git commit -m "Refresh generated profile visuals"
+          git pull --rebase origin main
           git push
