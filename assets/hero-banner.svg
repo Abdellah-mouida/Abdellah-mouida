@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Abdellah's developer workspace</title>
+<desc id="desc">Dark blue developer workspace with a terminal, laptop, coffee mug and code-inspired details.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#080D16"/><stop offset=".52" stop-color="#0D1B2D"/><stop offset="1" stop-color="#080D16"/></linearGradient>
+  <linearGradient id="screen" x1="350" y1="70" x2="850" y2="265" gradientUnits="userSpaceOnUse"><stop stop-color="#10233D"/><stop offset="1" stop-color="#07101C"/></linearGradient>
+  <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="translate(600 162) rotate(90) scale(210 470)" gradientUnits="userSpaceOnUse"><stop stop-color="#246AC4" stop-opacity=".25"/><stop offset="1" stop-color="#246AC4" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#background)"/>
+<rect width="1200" height="330" rx="22" fill="url(#aura)"/>
+<rect x="1" y="1" width="1198" height="328" rx="21" stroke="#294565"/>
+<g stroke="#355A83" stroke-opacity=".22"><path d="M40 55H1160M40 110H1160M40 165H1160M40 220H1160M40 275H1160"/><path d="M120 28V302M240 28V302M360 28V302M480 28V302M600 28V302M720 28V302M840 28V302M960 28V302M1080 28V302"/></g>
+<path d="M98 89L123 64L148 89L123 114L98 89Z" stroke="#4B90E5" fill="#15345A" fill-opacity=".35"/>
+<path d="M1050 226L1072 204L1094 226L1072 248L1050 226Z" stroke="#4B90E5" fill="#15345A" fill-opacity=".35"/>
+<circle cx="220" cy="222" r="3" fill="#8CC4FF"/><circle cx="990" cy="91" r="3" fill="#8CC4FF"/>
+<g>
+  <rect x="326" y="49" width="548" height="230" rx="18" fill="#111E30" stroke="#58789E" stroke-width="2"/>
+  <rect x="341" y="64" width="518" height="199" rx="11" fill="url(#screen)"/>
+  <path d="M341 94H859" stroke="#2D496A"/>
+  <rect x="359" y="76" width="8" height="8" rx="4" fill="#FF7885"/><rect x="374" y="76" width="8" height="8" rx="4" fill="#F5C46D"/><rect x="389" y="76" width="8" height="8" rx="4" fill="#63D7A9"/>
+  <text x="600" y="84" fill="#9AB5D5" text-anchor="middle" font-family="monospace" font-size="10">abdellah@workspace: ~/projects</text>
+  <text x="375" y="126" fill="#79B7FF" font-family="monospace" font-size="17">$ whoami</text>
+  <text x="375" y="151" fill="#E0ECFA" font-family="monospace" font-size="15">Abdellah Mouida</text>
+  <text x="375" y="184" fill="#79B7FF" font-family="monospace" font-size="17">$ cat mission.txt</text>
+  <text x="375" y="209" fill="#A9C1DE" font-family="monospace" font-size="14">build useful things. make them feel great.</text>
+  <text x="375" y="240" fill="#79B7FF" font-family="monospace" font-size="16">$ <tspan fill="#E8F3FF">git commit -m "ship it"</tspan><tspan fill="#68A9FF"> ▍<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  <path d="M288 283H912L868 304H332L288 283Z" fill="#263D59" stroke="#52749A"/><path d="M485 286H715L700 298H500L485 286Z" fill="#16283F"/>
+</g>
+<g transform="translate(185 163)">
+  <path d="M0 22C0 11 9 4 20 4H64C75 4 84 11 84 22V75H0V22Z" fill="#172A40" stroke="#6484A8" stroke-width="1.7"/>
+  <path d="M8 29H76V65H8Z" fill="#0A1421"/><path d="M19 4V-5C19 -16 29 -23 42 -23C55 -23 65 -16 65 -5V4" stroke="#73B5FF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M33 -1C26 -12 37 -18 36 -29M51 -1C44 -12 56 -20 55 -30" stroke="#B2D9FF" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <text x="42" y="96" text-anchor="middle" fill="#91ABC9" font-family="monospace" font-size="11">coffee.service</text>
+</g>
+<g transform="translate(930 86)">
+  <rect width="168" height="72" rx="13" fill="#101D2D" stroke="#34577D"/>
+  <circle cx="22" cy="22" r="5" fill="#58D5A4"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="38" y="26" fill="#DAE9FA" font-family="monospace" font-size="12">SYSTEM ONLINE</text>
+  <text x="17" y="49" fill="#8CA8C9" font-family="monospace" font-size="10">bugs_detected = ?</text>
+  <text x="17" y="63" fill="#63D7A9" font-family="monospace" font-size="9">probably a feature</text>
+</g>
+<g transform="translate(944 192)">
+  <rect width="145" height="53" rx="11" fill="#101D2D" stroke="#34577D"/>
+  <text x="14" y="21" fill="#79B7FF" font-family="monospace" font-size="11">git status</text>
+  <text x="14" y="39" fill="#C8D9EB" font-family="monospace" font-size="11">clean ✓</text>
+  <circle cx="119" cy="27" r="4" fill="#62D6A7"><animate attributeName="r" values="3;5;3" dur="1.8s" repeatCount="indefinite"/></circle>
+</g>
+<text x="600" y="28" text-anchor="middle" fill="#779AC2" font-family="monospace" font-size="10" letter-spacing="3">IDEAS IN · GOOD SOFTWARE OUT</text>
+</svg>
