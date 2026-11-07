@@ -34,9 +34,9 @@ Hey! I'm **Abdellah Mouida**. I'm interested in the space where software enginee
 
 I enjoy building across different layers of the stack. One day that might mean a bilingual web platform with Arabic RTL support; another day it might be a Python terminal app, an Android UI experiment, or a Linux workflow that saves a few keystrokes.
 
-### \`terminal.session\` / a peek inside my shell
+### `terminal.session` / a peek inside my shell
 
-\`\`\`bash
+```bash
 abdellah@ubuntu:~$ whoami
 Abdellah Mouida
 
@@ -60,7 +60,7 @@ abdellah@ubuntu:~$ git status --short
 
 abdellah@ubuntu:~$ echo "keep building"
 keep building
-\`\`\`
+```
 
 **Things I care about**
 - Thoughtful UI/UX, responsive layouts, and smooth motion.
