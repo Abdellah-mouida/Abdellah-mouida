@@ -127,8 +127,8 @@ def get_contribution_days():
         fragment = request_text(f"https://github.com/users/{USER}/contributions")
         days = {}
         for tag in re.findall(r"<[^>]+>", fragment):
-            date_match = re.search(r'data-date=["\\'](\\d{4}-\\d{2}-\\d{2})["\\']', tag)
-            count_match = re.search(r'data-count=["\\'](\\d+)["\\']', tag)
+            date_match = re.search(r"""data-date=["'](\d{4}-\d{2}-\d{2})["']""", tag)
+            count_match = re.search(r"""data-count=["'](\d+)["']""", tag)
             if date_match and count_match:
                 days[date_match.group(1)] = safe_int(count_match.group(1))
         if days:
@@ -184,7 +184,7 @@ def write_stats(metrics, contribution_total, contribution_label):
         svg.append(f'<rect x="{x}" y="82" width="216" height="2" rx="1" fill="url(#blue)"><animate attributeName="opacity" values=".45;1;.45" dur="{2.4+index*.35}s" repeatCount="indefinite"/></rect>')
     svg.append('<text x="28" y="180" fill="#607D9E" font-family="monospace" font-size="9">NO THIRD-PARTY STATS SERVICE REQUIRED · SOURCE: GITHUB API</text>')
     svg.append("</svg>")
-    (ASSETS / "stats-overview.svg").write_text("\\n".join(svg), encoding="utf-8")
+    (ASSETS / "top-languages.svg").write_text("\n".join(svg), encoding="utf-8")
 
 
 def write_languages(languages: Counter):
@@ -206,7 +206,7 @@ def write_languages(languages: Counter):
             svg.append(f'<rect x="30" y="{y+13}" width="{bar_width:.2f}" height="7" rx="3.5" fill="{color}"/>')
             y += 23
     svg.append("</svg>")
-    (ASSETS / "top-languages.svg").write_text("\\n".join(svg), encoding="utf-8")
+    (ASSETS / "top-languages.svg").write_text("\n".join(svg), encoding="utf-8")
 
 
 def write_activity(days: dict[str, int], total: int, label: str):
@@ -250,7 +250,7 @@ def write_activity(days: dict[str, int], total: int, label: str):
     svg.append('<text x="275" y="215" fill="#718BA9" font-family="Inter,Arial,sans-serif" font-size="10">More</text>')
     svg.append('<text x="968" y="215" text-anchor="end" fill="#526D8E" font-family="monospace" font-size="9">ONE DAY AT A TIME.</text>')
     svg.append("</svg>")
-    (ASSETS / "contribution-activity.svg").write_text("\\n".join(svg), encoding="utf-8")
+    (ASSETS / "contribution-activity.svg").write_text("\n".join(svg), encoding="utf-8")
 
 
 def copy_snake():
