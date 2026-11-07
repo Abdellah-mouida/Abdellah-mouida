@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" fill="none">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#111F32"/><stop offset="1" stop-color="#0B111C"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="188" rx="18" fill="#0C1420" stroke="#233D5E"/>
+  <g>
+    <rect x="16" y="16" width="370" height="158" rx="13" fill="url(#panel)" stroke="#294A70"/>
+    <circle cx="52" cy="51" r="17" fill="#163C68"/><path d="M45 49L51 43L58 50L51 58Z" fill="#8FC5FF"/><circle cx="52" cy="51" r="7" fill="none" stroke="#8FC5FF"/>
+    <text x="80" y="47" fill="#77B6FF" font-family="monospace" font-size="11" letter-spacing="1">THE CLASSIC</text>
+    <text x="34" y="91" fill="#E4EFFC" font-family="sans-serif" font-size="21" font-weight="700">“Works on my machine.”</text>
+    <text x="34" y="122" fill="#91A9C7" font-family="sans-serif" font-size="15">Cool. Ship the machine.</text>
+    <text x="34" y="151" fill="#54769F" font-family="monospace" font-size="10">// deployment strategy v1.0</text>
+  </g>
+  <g>
+    <rect x="415" y="16" width="370" height="158" rx="13" fill="url(#panel)" stroke="#294A70"/>
+    <circle cx="451" cy="51" r="17" fill="#3A2E1D"/><path d="M442 53C444 43 458 42 461 52L459 61H445Z" fill="#F0BC66"/><path d="M447 42L445 35M455 42L458 34" stroke="#F0BC66" stroke-width="2" stroke-linecap="round"/>
+    <text x="479" y="47" fill="#F0BC66" font-family="monospace" font-size="11" letter-spacing="1">DAILY ROUTINE</text>
+    <text x="433" y="91" fill="#E4EFFC" font-family="sans-serif" font-size="21" font-weight="700">Eat. Sleep. Debug. Repeat.</text>
+    <text x="433" y="122" fill="#91A9C7" font-family="sans-serif" font-size="15">Somewhere in there: remember to eat.</text>
+    <text x="433" y="151" fill="#54769F" font-family="monospace" font-size="10">// coffee is a dependency</text>
+  </g>
+  <g>
+    <rect x="814" y="16" width="370" height="158" rx="13" fill="url(#panel)" stroke="#294A70"/>
+    <circle cx="850" cy="51" r="17" fill="#3C2430"/><path d="M843 44L857 58M857 44L843 58" stroke="#FF8D9A" stroke-width="3" stroke-linecap="round"/><circle cx="850" cy="51" r="11" stroke="#FF8D9A" stroke-opacity=".6"/>
+    <text x="878" y="47" fill="#FF9AA7" font-family="monospace" font-size="11" letter-spacing="1">CSS INCIDENT</text>
+    <text x="832" y="91" fill="#E4EFFC" font-family="sans-serif" font-size="21" font-weight="700">It’s not a bug. It’s z-index.</text>
+    <text x="832" y="122" fill="#91A9C7" font-family="sans-serif" font-size="15">Until it meets another z-index.</text>
+    <text x="832" y="151" fill="#54769F" font-family="monospace" font-size="10">// position: relative to reality</text>
+  </g>
+  <path d="M190 10V16M600 10V16M1000 10V16" stroke="#68A9FF" stroke-width="2" stroke-linecap="round"/>
+</svg>
