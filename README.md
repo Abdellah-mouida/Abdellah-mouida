@@ -176,14 +176,21 @@ Everything I ship goes through the same cycle: **break it** to see where it fail
 
 <div align="center">
 
-<a href="https://github.com/Abdellah-mouida"><img src="https://img.shields.io/badge/GitHub-Abdellah--mouida-0A1330?style=for-the-badge&logo=github&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="GitHub"/></a>
-<a href="https://github.com/Ihyaa-Program"><img src="https://img.shields.io/badge/Org-Ihyaa_Program-0A1330?style=for-the-badge&logo=github&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Ihyaa Program on GitHub"/></a>
-<a href="https://ihya-iacsas.vercel.app"><img src="https://img.shields.io/badge/Web-ihya--iacsas.vercel.app-0A1330?style=for-the-badge&logo=vercel&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Ihyaa platform"/></a>
-<!-- Add your own links here, in the same style, for example:
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-YOUR--HANDLE-0A1330?style=for-the-badge&logo=linkedin&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="LinkedIn"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you%40example.com-0A1330?style=for-the-badge&logo=gmail&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Email"/></a>
--->
+<a href="https://github.com/Abdellah-mouida">
+  <img src="https://img.shields.io/badge/GitHub-Abdellah--mouida-0A1330?style=for-the-badge&logo=github&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="GitHub"/>
+</a>
+<a href="https://github.com/Ihyaa-Program">
+  <img src="https://img.shields.io/badge/Org-Ihyaa_Program-0A1330?style=for-the-badge&logo=github&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Ihyaa Program"/>
+</a>
+<a href="https://ihya-iacsas.vercel.app">
+  <img src="https://img.shields.io/badge/Web-ihya--iacsas.vercel.app-0A1330?style=for-the-badge&logo=vercel&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Ihyaa platform"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A1330?style=for-the-badge&logo=linkedin&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="LinkedIn"/>
+</a>
+<a href="mailto:you@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0A1330?style=for-the-badge&logo=gmail&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Email"/>
+</a>
 
 </div>
-
-<img src="./assets/footer.svg" width="100%" alt="Break it. Understand it. Build it better."/>
