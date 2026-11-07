@@ -205,8 +205,8 @@ def write_languages(languages: Counter):
             svg.append(f'<rect x="30" y="{y+14}" width="938" height="8" rx="4" fill="#1A2A40"/>')
             svg.append(f'<rect x="30" y="{y+14}" width="{bar_width:.2f}" height="8" rx="4" fill="{color}"><animate attributeName="width" from="0" to="{bar_width:.2f}" dur="1.1s" fill="freeze"/></rect>')
             y += 37
-    svg.append("</svg>")
     svg.append('<text x="30" y="352" fill="#607D9E" font-family="monospace" font-size="9">MORE BREATHING ROOM. SAME AMOUNT OF NERD.</text>')
+    svg.append("</svg>")
     (ASSETS / "top-languages.svg").write_text("\n".join(svg), encoding="utf-8")
 
 
