@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#101D30"/><stop offset="1" stop-color="#090F19"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#367BE5"/><stop offset="1" stop-color="#85C3FF"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect x="1" y="1" width="998" height="188" rx="18" fill="url(#bg)" stroke="#263F60"/>
+<circle cx="968" cy="20" r="48" fill="#2563EB" opacity=".08" filter="url(#glow)"/>
+<text x="28" y="38" fill="#E6F1FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">GITHUB / PROFILE OVERVIEW</text>
+<text x="28" y="59" fill="#829BB9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Live public profile metrics · refreshed automatically</text>
+<circle cx="971" cy="30" r="4" fill="#62D6A7"><animate attributeName="opacity" values="1;.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+
+<rect x="26" y="82" width="216" height="82" rx="12" fill="#101C2C" stroke="#294665"/>
+<text x="42" y="105" fill="#83A6CE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1">PUBLIC REPOSITORIES</text>
+<text x="42" y="139" fill="#E8F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">24</text>
+<text x="42" y="155" fill="#7892B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">projects in the open</text>
+<rect x="26" y="82" width="216" height="2" rx="1" fill="url(#blue)"><animate attributeName="opacity" values=".45;1;.45" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="270" y="82" width="216" height="82" rx="12" fill="#101C2C" stroke="#294665"/>
+<text x="286" y="105" fill="#83A6CE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1">STARS EARNED</text>
+<text x="286" y="139" fill="#E8F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">2</text>
+<text x="286" y="155" fill="#7892B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">across public repositories</text>
+<rect x="270" y="82" width="216" height="2" rx="1" fill="url(#blue)"><animate attributeName="opacity" values=".45;1;.45" dur="2.75s" repeatCount="indefinite"/></rect>
+<rect x="514" y="82" width="216" height="82" rx="12" fill="#101C2C" stroke="#294665"/>
+<text x="530" y="105" fill="#83A6CE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1">FOLLOWERS</text>
+<text x="530" y="139" fill="#E8F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">0</text>
+<text x="530" y="155" fill="#7892B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">people following the journey</text>
+<rect x="514" y="82" width="216" height="2" rx="1" fill="url(#blue)"><animate attributeName="opacity" values=".45;1;.45" dur="3.0999999999999996s" repeatCount="indefinite"/></rect>
+<rect x="758" y="82" width="216" height="82" rx="12" fill="#101C2C" stroke="#294665"/>
+<text x="774" y="105" fill="#83A6CE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1">CONTRIBUTIONS</text>
+<text x="774" y="139" fill="#E8F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">415</text>
+<text x="774" y="155" fill="#7892B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">contributions · yearly view</text>
+<rect x="758" y="82" width="216" height="2" rx="1" fill="url(#blue)"><animate attributeName="opacity" values=".45;1;.45" dur="3.4499999999999997s" repeatCount="indefinite"/></rect>
+<text x="28" y="180" fill="#607D9E" font-family="monospace" font-size="9">NO THIRD-PARTY STATS SERVICE REQUIRED · SOURCE: GITHUB API</text>
+</svg>
