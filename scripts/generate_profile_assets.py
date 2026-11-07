@@ -184,7 +184,7 @@ def write_stats(metrics, contribution_total, contribution_label):
         svg.append(f'<rect x="{x}" y="82" width="216" height="2" rx="1" fill="url(#blue)"><animate attributeName="opacity" values=".45;1;.45" dur="{2.4+index*.35}s" repeatCount="indefinite"/></rect>')
     svg.append('<text x="28" y="180" fill="#607D9E" font-family="monospace" font-size="9">NO THIRD-PARTY STATS SERVICE REQUIRED · SOURCE: GITHUB API</text>')
     svg.append("</svg>")
-    (ASSETS / "top-languages.svg").write_text("\n".join(svg), encoding="utf-8")
+    (ASSETS / "stats-overview.svg").write_text("\n".join(svg), encoding="utf-8")
 
 
 def write_languages(languages: Counter):
