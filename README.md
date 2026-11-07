@@ -24,20 +24,20 @@
 ~~~text
 ╭──────────────────────────────────────────────────────────────────────╮
 │                                                                      │
-│   Z E R O O X        THINK IN SYSTEMS  ·  BUILD WITH INTENT           │
+│   Z E R O O X        THINK IN SYSTEMS  ·  BUILD WITH INTENT          │
 │                                                                      │
 │   ┌──(abdellah@zeroox)-[~/workspace]                                 │
 │   └─$ whoami                                                         │
 │      Abdellah Mouida                                                 │
 │                                                                      │
 │   └─$ cat /etc/profile                                               │
-│      role       : developer & independent builder                   │
+│      role       : developer & independent builder                    │
 │      focus      : full-stack web · UI engineering · Linux            │
-│      interests  : 3D visuals · motion · open source · automation      │
-│      languages  : Arabic / English · RTL / LTR interfaces             │
-│      philosophy : break it → understand it → build it better          │
+│      interests  : 3D visuals · motion · open source · automation     │
+│      languages  : Arabic / English · RTL / LTR interfaces            │
+│      philosophy : break it → understand it → build it better         │
 │                                                                      │
-│   └─$ _                                                             │
+│   └─$ _                                                              │
 ╰──────────────────────────────────────────────────────────────────────╯
 ~~~
 
@@ -104,19 +104,19 @@ I like projects where the interface and the underlying system are designed toget
 
 ~~~text
        ┌─────────────────┐
-       │   THE EXPERIENCE │
+       │   THE EXPERIENCE│
        │  clear · fast · human
        └────────┬────────┘
                 │
                 ▼
        ┌─────────────────┐
-       │   THE ENGINE     │
+       │   THE ENGINE    │
        │  logic · APIs · data
        └────────┬────────┘
                 │
                 ▼
        ┌─────────────────┐
-       │   THE FOUNDATION │
+       │   THE FOUNDATION│
        │  quality · security
        │  maintainability
        └─────────────────┘
