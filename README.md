@@ -1,196 +1,237 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070D,48:0B1B36,100:164C9A&text=ZEROox&fontColor=EAF3FF&fontSize=76&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20CREATIVE%20BUILDER%20%E2%80%A2%20SYSTEMS%20THINKER&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="ZEROox — developer profile banner"/>
+
+<a href="https://github.com/Abdellah-mouida">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=68A9FF&center=true&vCenter=true&repeat=true&width=850&height=54&lines=Building+useful+things+for+the+web;Turning+ideas+into+polished+interfaces;Exploring+3D%2C+motion%2C+and+systems;Linux+%7C+Open+Source+%7C+Creative+Engineering;Break+it.+Understand+it.+Build+it+better." alt="Animated developer tagline"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Abdellah-mouida?tab=followers"><img src="https://img.shields.io/github/followers/Abdellah-mouida?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=246BCE" alt="GitHub followers"/></a>
+<a href="https://github.com/Abdellah-mouida?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=68A9FF" alt="Explore repositories"/></a>
+<a href="https://github.com/Ihyaa-Program"><img src="https://img.shields.io/badge/Community-Ihyaa_Program-111827?style=for-the-badge&logo=github&logoColor=68A9FF" alt="Ihyaa Program"/></a>
+<a href="https://ihyaa.is-cool.dev"><img src="https://img.shields.io/badge/Live-Ihyaa-111827?style=for-the-badge&logo=vercel&logoColor=68A9FF" alt="Ihyaa live platform"/></a>
+
+</div>
+
 <p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/152626522?s=512&v=4"
-    width="160"
-    height="160"
-    style="border-radius: 50%; object-fit: cover;"
-    alt="Zeroox Profile Picture"
-  />
+  <img src="./assets/zeroox-divider.svg" width="100%" alt="Blue Zeroox divider"/>
 </p>
 
+## `whoami`  /  the person behind the commits
+
+~~~text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   Z E R O O X        THINK IN SYSTEMS  ·  BUILD WITH INTENT           │
+│                                                                      │
+│   ┌──(abdellah@zeroox)-[~/workspace]                                 │
+│   └─$ whoami                                                         │
+│      Abdellah Mouida                                                 │
+│                                                                      │
+│   └─$ cat /etc/profile                                               │
+│      role       : developer & independent builder                   │
+│      focus      : full-stack web · UI engineering · Linux            │
+│      interests  : 3D visuals · motion · open source · automation      │
+│      languages  : Arabic / English · RTL / LTR interfaces             │
+│      philosophy : break it → understand it → build it better          │
+│                                                                      │
+│   └─$ _                                                             │
+╰──────────────────────────────────────────────────────────────────────╯
+~~~
+
+I'm **Abdellah Mouida**, the developer behind **Zeroox**. I enjoy turning rough ideas into thoughtful digital products — from full-stack platforms and Android experiments to terminal tools and motion-rich interfaces.
+
+I care about the whole experience: how a product works, how it feels, how it adapts to different screens and languages, and how maintainable it is underneath. I like exploring the boundary between engineering and visual design, without forgetting the fundamentals.
+
+<p align="center">
+  <img src="./assets/zeroox-divider.svg" width="100%" alt=""/>
+</p>
+
+## `current mission`  /  what I'm building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔷 Ihyaa · Community Platform</h3>
+      A bilingual platform for the <a href="https://github.com/Ihyaa-Program">Ihyaa Program</a> community, designed around useful member experiences and community workflows.
+      <br/><br/>
+      <strong>Focus</strong><br/>
+      Arabic / English · RTL / LTR · events · authentication · role-based admin tools
+      <br/><br/>
+      <a href="https://github.com/Abdellah-mouida/Ihya-iacsas">Source code</a> · <a href="https://ihyaa.is-cool.dev">Live platform</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ ZEROOX · Personal Identity</h3>
+      A motion-first portfolio experiment exploring a distinctive developer identity through deep-black surfaces, electric blue, 3D scenes and atmospheric visuals.
+      <br/><br/>
+      <strong>Exploring</strong><br/>
+      React · TypeScript · three.js · GLSL · scroll-driven motion · visual systems
+      <br/><br/>
+      <a href="https://github.com/Abdellah-mouida/zx">Explore the project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎧 XMusic · Terminal Audio</h3>
+      A lightweight, animated terminal music player for local audio, with keyboard and mouse controls and an electric-blue terminal interface.
+      <br/><br/>
+      <strong>Built with</strong><br/>
+      Python · miniaudio · Mutagen · terminal UI
+      <br/><br/>
+      <a href="https://github.com/Abdellah-mouida/XMusic">Explore XMusic</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 NewPipe · Android</h3>
+      Working on a NewPipe fork with a stronger focus on modern Android UI, smoother navigation, rounded components and meaningful motion.
+      <br/><br/>
+      <strong>Exploring</strong><br/>
+      Java · Android · UI refinement · interaction design
+      <br/><br/>
+      <a href="https://github.com/Abdellah-mouida/NewPipe">Explore the fork</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/zeroox-divider.svg" width="100%" alt=""/>
+</p>
+
+## `the blueprint`  /  how I think
+
+I like projects where the interface and the underlying system are designed together.
+
+~~~text
+       ┌─────────────────┐
+       │   THE EXPERIENCE │
+       │  clear · fast · human
+       └────────┬────────┘
+                │
+                ▼
+       ┌─────────────────┐
+       │   THE ENGINE     │
+       │  logic · APIs · data
+       └────────┬────────┘
+                │
+                ▼
+       ┌─────────────────┐
+       │   THE FOUNDATION │
+       │  quality · security
+       │  maintainability
+       └─────────────────┘
+
+       BREAK IT
+          ↓
+     UNDERSTAND IT
+          ↓
+      BUILD BETTER
+          ↺
+~~~
+
+**My rule:** don't stop at making something work. Understand why it works, find where it can fail, and make the next iteration better.
+
+<p align="center">
+  <img src="./assets/zeroox-divider.svg" width="100%" alt=""/>
+</p>
+
+## `toolkit`  /  technologies I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,tailwind,prisma,postgres,threejs,vite,html,css,bash,linux,git,github,vercel&theme=dark&perline=7" alt="Technologies and tools"/>
+
+</div>
+
+| Area | Tools and technologies |
+|:--|:--|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
+| **Backend & data** | Node.js, Prisma, PostgreSQL, Neon, server-side application logic |
+| **Motion & 3D** | three.js, React Three Fiber, GSAP, Framer Motion, GLSL |
+| **Android & desktop** | Java, Android projects, Python terminal applications |
+| **Testing & delivery** | Playwright, Git, GitHub, Vercel |
+| **Environment & workflow** | Ubuntu, Linux, Zsh, OpenCode, LiteLLM, AI-assisted development |
+
+<p align="center">
+  <img src="./assets/zeroox-divider.svg" width="100%" alt=""/>
+</p>
+
+## `selected repositories`  /  things I've shipped and explored
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**Ihya-iacsas**](https://github.com/Abdellah-mouida/Ihya-iacsas) | Bilingual community platform for Ihyaa Program | TypeScript · Next.js |
+| [**zx**](https://github.com/Abdellah-mouida/zx) | ZEROOX portfolio and visual identity experiments | TypeScript |
+| [**XMusic**](https://github.com/Abdellah-mouida/XMusic) | Animated terminal music player for local audio | Python |
+| [**NewPipe**](https://github.com/Abdellah-mouida/NewPipe) | NewPipe Android fork and UI redesign work | Java |
+| [**Hiworld client**](https://github.com/Abdellah-mouida/Hiworld-v1-client) | Front end for a social platform to publish and review posts | CSS · React |
+| [**Hiworld server**](https://github.com/Abdellah-mouida/Hiworld-v1-server) | Back-end companion for Hiworld | JavaScript |
+
+<p align="center">
+  <a href="https://github.com/Abdellah-mouida?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=68A9FF" alt="View all repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/zeroox-divider.svg" width="100%" alt=""/>
+</p>
+
+## `github telemetry`  /  activity at a glance
+
+<div align="center">
+
 <a href="https://github.com/Abdellah-mouida">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5AA0FF&center=true&vCenter=true&width=780&height=56&lines=Full-stack+developer+%7C+Next.js+%2B+React+%2B+TypeScript;Building+the+Ihyaa+community+platform;Cinematic+3D+web+%7C+three.js+%2B+GLSL;Offensive-security+mindset;Break+it.+Understand+it.+Build+it+better." alt="Typing animation of my focus areas"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Abdellah-mouida&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=68A9FF&icon_color=3D8BFF&text_color=C9D6E5" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/Abdellah-mouida">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-mouida&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=68A9FF&text_color=C9D6E5" alt="Most used languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/Ihyaa-Program"><img src="https://img.shields.io/badge/ORG-Ihyaa_Program-2F6BFF?style=for-the-badge&labelColor=0A1330&logo=github&logoColor=7FB2FF" alt="Ihyaa Program"/></a>
-<a href="https://ihya-iacsas.vercel.app"><img src="https://img.shields.io/badge/LIVE-ihya--iacsas.vercel.app-2F6BFF?style=for-the-badge&labelColor=0A1330&logo=vercel&logoColor=7FB2FF" alt="Ihyaa platform, live"/></a>
-<a href="https://github.com/Abdellah-mouida?tab=followers"><img src="https://img.shields.io/github/followers/Abdellah-mouida?style=for-the-badge&labelColor=0A1330&color=2F6BFF&logo=github&logoColor=7FB2FF" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=Abdellah-mouida&label=PROFILE+VIEWS&color=2F6BFF&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<div align="center">
-
-```text
- █████╗ ██████╗ ██████╗ ███████╗██╗     ██╗      █████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██║     ██║     ██╔══██╗██║  ██║
-███████║██████╔╝██║  ██║█████╗  ██║     ██║     ███████║███████║
-██╔══██║██╔══██╗██║  ██║██╔══╝  ██║     ██║     ██╔══██║██╔══██║
-██║  ██║██████╔╝██████╔╝███████╗███████╗███████╗██║  ██║██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ◈ whoami
-
-```text
-┌──(abdellah@zeroox)-[~]
-└─$ whoami
-abdellah-mouida
-
-┌──(abdellah@zeroox)-[~]
-└─$ cat about.txt
-name       : Abdellah Mouida
-role       : full-stack developer, independent
-builds     : bilingual (Arabic / English, RTL + LTR) web platforms
-leans on   : Next.js · React · TypeScript · Prisma · three.js
-mindset    : offensive security. break it, understand it, build it better
-org        : @Ihyaa-Program (Ihyaa Ltd), joined 22 Oct 2026
-shipping   : Ihyaa Community Platform · ZEROOX portfolio
-last year  : 637 contributions (snapshot, Nov 2026)
-
-┌──(abdellah@zeroox)-[~]
-└─$ _
-```
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ◈ now building
-
-### 🔷 Ihyaa Community Platform
-
-The official web platform for **Ihyaa Program** (برنامج إحياء), a Moroccan non-profit youth community initiative focused on personal development, education and community service. Live at **[ihya-iacsas.vercel.app](https://ihya-iacsas.vercel.app)**, with 177 commits and counting.
-
-- **Bilingual by design**: full Arabic / English support with RTL + LTR layout adaptation
-- **Identity & security**: Auth.js v5 (credentials with email OTP, plus Google OAuth), bcrypt hashing, rate-limited sign-in, cross-device session revocation
-- **Events engine**: one-click booking, open vs. limited capacity, numbered waitlists, admin approval and automatic waitlist promotion by email
-- **Admin portal**: role-based access (`ADMIN` / `MODERATOR` / `USER`), user directory, and an immutable audit log
-- **Craft**: interactive 3D hero scene in three.js, glassmorphic toasts, Playwright end-to-end tests
-
-```text
-┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
-│  Next.js 16  │──▶│  Auth.js v5  │──▶│    Prisma    │──▶│  Cloudinary  │
-│   React 19   │   │  RBAC · OTP  │   │  PostgreSQL  │   │    Brevo     │
-└──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘
-```
-
-### 🔷 ZEROOX
-
-A cinematic 3D portfolio for my independent developer and offensive-security identity. **AMOLED black, one electric-blue accent, glass as the signature material.** Custom GLSL shaders (aurora, light trails, particles), GSAP + ScrollTrigger scrolling with Lenis, and a custom Tailwind token layer with no default palette. Currently in active construction.
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ◈ stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,threejs,vite,java,css,html,git,github,vercel&theme=dark&perline=8" alt="Skill icons"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/GSAP-0A1330?style=flat-square&logo=greensock&logoColor=7FB2FF" alt="GSAP"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0A1330?style=flat-square&logo=framer&logoColor=7FB2FF" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/React_Three_Fiber-0A1330?style=flat-square&logo=threedotjs&logoColor=7FB2FF" alt="React Three Fiber"/>
-<img src="https://img.shields.io/badge/GLSL_shaders-0A1330?style=flat-square&logoColor=7FB2FF" alt="GLSL shaders"/>
-<img src="https://img.shields.io/badge/Auth.js_v5-0A1330?style=flat-square&logoColor=7FB2FF" alt="Auth.js v5"/>
-<img src="https://img.shields.io/badge/Cloudinary-0A1330?style=flat-square&logo=cloudinary&logoColor=7FB2FF" alt="Cloudinary"/>
-<img src="https://img.shields.io/badge/Playwright-0A1330?style=flat-square&logo=playwright&logoColor=7FB2FF" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Radix_UI-0A1330?style=flat-square&logo=radixui&logoColor=7FB2FF" alt="Radix UI"/>
-
-</div>
-
-| Layer | What I reach for |
-|:--|:--|
-| **Frontend** | Next.js (App Router), React 18/19, TypeScript, Tailwind CSS v4, Radix UI, Vite |
-| **3D & motion** | three.js, React Three Fiber, drei, postprocessing, custom GLSL, GSAP, Lenis, Framer Motion |
-| **Backend & data** | Next.js server actions, Prisma ORM, PostgreSQL (Neon), Node.js |
-| **Auth & services** | Auth.js v5, Google OAuth, Cloudinary, Brevo transactional email |
-| **Quality** | Playwright E2E, strict TypeScript, ESLint, i18n parity checks |
-| **Workflow** | Agent-assisted development (Claude Code, OpenCode), Vercel deploys |
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ◈ repositories
-
-| | Repository | What it is | Built with |
-|:-:|:--|:--|:--|
-| 🔷 | [**Ihya-iacsas**](https://github.com/Abdellah-mouida/Ihya-iacsas) | Community platform for Ihyaa Program: events, bookings, RBAC admin portal | TypeScript · Next.js · Prisma |
-| 🔷 | [**zx**](https://github.com/Abdellah-mouida/zx) | ZEROOX, a cinematic 3D portfolio (in progress) | TypeScript · React · three.js · GLSL |
-| 🔹 | [abdellah-mouida-portfolio](https://github.com/Abdellah-mouida/abdellah-mouida-portfolio) | Personal portfolio | CSS |
-| 🔹 | [Hiworld-v1-client](https://github.com/Abdellah-mouida/Hiworld-v1-client) | Social platform front end where you post and review others' posts | CSS |
-| 🔹 | [Hiworld-v1-server](https://github.com/Abdellah-mouida/Hiworld-v1-server) | Back end for Hiworld | JavaScript |
-| 🔹 | [Mayza](https://github.com/Abdellah-mouida/Mayza) | Styling experiments | CSS |
-| 🔹 | [NewPipe](https://github.com/Abdellah-mouida/NewPipe) | Fork of [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe), a libre lightweight streaming front end for Android | Java |
-
-<sub>23 public repositories in total. The table lists the ones I keep pinned.</sub>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ◈ the loop
-
-```text
-  ┌──────────┐      ┌───────────────┐      ┌──────────────┐
-  │ BREAK IT │ ───▶ │ UNDERSTAND IT │ ───▶ │ BUILD BETTER │
-  └─────▲────┘      └───────────────┘      └──────┬───────┘
-        │                                         │
-        └──────────────── repeat ─────────────────┘
-```
-
-Everything I ship goes through the same cycle: **break it** to see where it fails, **understand it** until the failure makes sense, then **build it better**.
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ◈ telemetry
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdellah-mouida&show_icons=true&border_radius=12&bg_color=0A1330&title_color=7FB2FF&icon_color=2F6BFF&text_color=C9D6F5&ring_color=2F6BFF&border_color=16306B" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-mouida&layout=compact&langs_count=6&border_radius=12&bg_color=0A1330&title_color=7FB2FF&text_color=C9D6F5&border_color=16306B" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=Abdellah-mouida&hide_border=true&background=0D1117&ring=3D8BFF&fire=68A9FF&currStreakNum=EAF3FF&sideNums=C9D6E5&currStreakLabel=68A9FF&sideLabels=68A9FF&dates=718096" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Abdellah-mouida&border_radius=12&background=0A1330&border=16306B&stroke=16306B&ring=2F6BFF&fire=5AA0FF&currStreakNum=C9D6F5&currStreakLabel=7FB2FF&sideNums=C9D6F5&sideLabels=7FB2FF&dates=5A6E9E" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdellah-mouida&bg_color=0A1330&color=7FB2FF&line=2F6BFF&point=FFFFFF&area=true&area_color=2F6BFF&hide_border=true&radius=12&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Abdellah-mouida/Abdellah-mouida/output/snake-blue.svg" alt="Contribution snake" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdellah-mouida&bg_color=0D1117&color=9BC5FF&line=3D8BFF&point=EAF3FF&area=true&hide_border=true&custom_title=Contribution%20activity" width="98%" alt="Contribution activity graph"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+### Contribution snake
 
-## ◈ transmit
+The snake animation is generated automatically by the repository workflow and published to the <code>output</code> branch.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdellah-mouida/Abdellah-mouida/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+</p>
+
+<p align="center">
+  <img src="./assets/zeroox-divider.svg" width="100%" alt=""/>
+</p>
+
+## `transmit`  /  find me around the web
 
 <div align="center">
 
 <a href="https://github.com/Abdellah-mouida">
-  <img src="https://img.shields.io/badge/GitHub-Abdellah--mouida-0A1330?style=for-the-badge&logo=github&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Abdellah--mouida-111827?style=for-the-badge&logo=github&logoColor=68A9FF" alt="GitHub profile"/>
 </a>
 <a href="https://github.com/Ihyaa-Program">
-  <img src="https://img.shields.io/badge/Org-Ihyaa_Program-0A1330?style=for-the-badge&logo=github&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Ihyaa Program"/>
+  <img src="https://img.shields.io/badge/Ihyaa_Program-Community-111827?style=for-the-badge&logo=github&logoColor=68A9FF" alt="Ihyaa Program organization"/>
 </a>
-<a href="https://ihya-iacsas.vercel.app">
-  <img src="https://img.shields.io/badge/Web-ihya--iacsas.vercel.app-0A1330?style=for-the-badge&logo=vercel&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Ihyaa platform"/>
+<a href="https://ihyaa.is-cool.dev">
+  <img src="https://img.shields.io/badge/Ihyaa-Visit_the_platform-111827?style=for-the-badge&logo=vercel&logoColor=68A9FF" alt="Ihyaa platform"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-HANDLE">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A1330?style=for-the-badge&logo=linkedin&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="LinkedIn"/>
-</a>
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0A1330?style=for-the-badge&logo=gmail&logoColor=7FB2FF&labelColor=0A1330&color=16306B" alt="Email"/>
-</a>
+<br/><br/>
+
+**Open to interesting ideas, thoughtful collaboration, and useful open-source work.**
+
+<sub>Made with curiosity, a terminal, and too many iterations. · Zeroox © 2026</sub>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:164C9A,55:0B1B36,100:05070D" width="100%" alt="Blue footer wave"/>
+</p>
