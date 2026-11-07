@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="40" y1="0" x2="1160" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#101F35"/><stop offset="1" stop-color="#080E18"/></linearGradient>
+    <linearGradient id="trail" x1="350" y1="70" x2="900" y2="70" gradientUnits="userSpaceOnUse"><stop stop-color="#3D8BFF" stop-opacity="0"/><stop offset=".75" stop-color="#68A9FF" stop-opacity=".7"/><stop offset="1" stop-color="#B7DCFF"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="148" rx="20" fill="url(#sky)" stroke="#233E60"/>
+  <g stroke="#6EAFFF" stroke-width="1.5" stroke-linecap="round">
+    <path d="M85 34h22M96 23v22M224 105h34M241 88v34M1000 37h28M1014 23v28" opacity=".55"/>
+    <path d="M450 25h15M457.5 17.5v15M787 115h17M795.5 106.5v17" opacity=".38"/>
+  </g>
+  <g fill="#B9D9FF">
+    <circle cx="160" cy="70" r="2"/><circle cx="333" cy="39" r="1.8"/><circle cx="597" cy="26" r="2"/><circle cx="920" cy="93" r="2"/><circle cx="1090" cy="78" r="1.8"/>
+  </g>
+  <path d="M280 87C430 30 590 120 760 72C850 47 920 52 1005 26" stroke="url(#trail)" stroke-width="2" stroke-dasharray="8 10" stroke-linecap="round"/>
+  <g>
+    <g>
+      <path d="M0 0L31 14L0 28L7 15L0 0Z" fill="#8CC6FF" stroke="#D7EDFF" stroke-width="1.2"/>
+      <path d="M7 15L17 14L31 14" stroke="#3D8BFF" stroke-width="1.5"/>
+      <path d="M2 14L-8 7L-5 16L-8 23L2 16" fill="#3D8BFF"/>
+      <animateMotion dur="9s" repeatCount="indefinite" path="M330 80 C490 10 650 130 820 65 S1030 40 1080 40"/>
+      <animateTransform attributeName="transform" type="rotate" values="-7;5;-7" dur="3s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </g>
+  <text x="42" y="61" fill="#E7F2FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">NEXT COMMIT: BETTER THAN THE LAST ONE.</text>
+  <text x="42" y="87" fill="#819AB9" font-family="monospace" font-size="11">keep learning · keep shipping · keep the coffee coming</text>
+  <text x="42" y="119" fill="#55769C" font-family="monospace" font-size="10">EOF // see you in the next pull request</text>
+</svg>
