@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Abdellah</h1>
+<img src="./assets/nameplate.svg" width="88%" alt="Abdellah Mouida — developer, builder, lifelong learner"/>
 
 <img src="./assets/hero-banner.svg" width="100%" alt="Animated illustration of a developer desk, laptop terminal, and coffee"/>
 
@@ -30,44 +30,9 @@
 
 ## `about.md`
 
-Hey! I'm **Abdellah Mouida**. I'm interested in the space where software engineering meets good product design: polished interfaces, reliable backends, useful tools, and the small interactions that make an app feel alive.
+I'm **Abdellah Mouida**, a developer who enjoys building thoughtful digital products — from full-stack web apps and Android experiments to Python tools and motion-rich interfaces. I care about clean engineering, useful details, and experiences that feel good to use.
 
-I enjoy building across different layers of the stack. One day that might mean a bilingual web platform with Arabic RTL support; another day it might be a Python terminal app, an Android UI experiment, or a Linux workflow that saves a few keystrokes.
-
-### `terminal.session` / a peek inside my shell
-
-```bash
-abdellah@ubuntu:~$ whoami
-Abdellah Mouida
-
-abdellah@ubuntu:~$ cat ~/about.txt
-role       : full-stack developer
-focus      : web apps, UI engineering, Linux
-interests  : 3D, motion, open source, automation
-languages  : Arabic / English · RTL / LTR
-
-abdellah@ubuntu:~$ cat ~/stack.txt
-TypeScript · React · Next.js · Node.js
-Python · Java · PostgreSQL · Prisma
-three.js · GSAP · Tailwind CSS
-
-abdellah@ubuntu:~$ ls ~/projects
-Ihya-iacsas/  zx/  XMusic/  NewPipe/
-
-abdellah@ubuntu:~$ git status --short
- M creativity
-?? coffee.refill
-
-abdellah@ubuntu:~$ echo "keep building"
-keep building
-```
-
-**Things I care about**
-- Thoughtful UI/UX, responsive layouts, and smooth motion.
-- Full-stack development, clean architecture, and practical security.
-- Open-source software, Linux, automation, and developer tooling.
-- Exploring 3D on the web with three.js, shaders, and interactive scenes.
-- Learning by building, breaking, debugging, and rebuilding.
+**Into:** polished UI/UX · full-stack engineering · open source · Linux · 3D and motion.
 
 <p align="center">
   <img src="./assets/dev-jokes.svg" width="100%" alt="Three developer jokes: works on my machine, eat sleep debug repeat, and CSS z-index incident"/>
@@ -83,19 +48,17 @@ keep building
   <tr>
     <td width="50%" valign="top">
       <h3>🔷 Ihyaa · Community Platform</h3>
-      A bilingual digital home for the <a href="https://github.com/Ihyaa-Program">Ihyaa Program</a> community.
+      A bilingual platform for the <a href="https://github.com/Ihyaa-Program">Ihyaa Program</a> community.
       <br/><br/>
-      <strong>Working around</strong><br/>
-      Arabic / English · RTL / LTR · community workflows · events · authentication · admin tools
+      Arabic / English · RTL / LTR · events · member and admin tools
       <br/><br/>
       <a href="https://github.com/Abdellah-mouida/Ihya-iacsas">View repository</a> · <a href="https://ihyaa.is-cool.dev">Visit platform</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌌 Personal Portfolio</h3>
-      A visual portfolio experiment focused on expressive interaction, 3D scenes, atmosphere, and a distinctive interface.
+      A visual portfolio exploring 3D scenes, expressive interaction, and motion.
       <br/><br/>
-      <strong>Exploring</strong><br/>
-      React · TypeScript · three.js · GLSL · scroll-driven motion · visual systems
+      React · TypeScript · three.js · GLSL
       <br/><br/>
       <a href="https://github.com/Abdellah-mouida/zx">View project</a>
     </td>
@@ -103,19 +66,17 @@ keep building
   <tr>
     <td width="50%" valign="top">
       <h3>🎧 XMusic · Terminal Audio</h3>
-      A lightweight animated terminal music player for local audio, with keyboard and mouse controls.
+      A lightweight terminal music player with a custom animated interface.
       <br/><br/>
-      <strong>Built with</strong><br/>
-      Python · miniaudio · Mutagen · terminal UI
+      Python · miniaudio · Mutagen
       <br/><br/>
       <a href="https://github.com/Abdellah-mouida/XMusic">View repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 NewPipe · Android</h3>
-      A NewPipe fork where I'm exploring a more modern Android experience, smoother navigation, rounded components, and meaningful motion.
+      A NewPipe fork focused on modern navigation, rounded UI, and smoother motion.
       <br/><br/>
-      <strong>Exploring</strong><br/>
-      Java · Android · interaction design · UI refinement
+      Java · Android
       <br/><br/>
       <a href="https://github.com/Abdellah-mouida/NewPipe">View repository</a>
     </td>
@@ -136,12 +97,10 @@ keep building
 
 | Area | Technologies |
 |:--|:--|
-| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
-| **Backend & data** | Node.js, Prisma, PostgreSQL, Neon |
-| **Motion & 3D** | three.js, React Three Fiber, GSAP, Framer Motion, GLSL |
-| **Android & desktop** | Java, Android projects, Python terminal applications |
-| **Testing & delivery** | Playwright, Git, GitHub, Vercel |
-| **Environment & workflow** | Ubuntu, Linux, Zsh, OpenCode, LiteLLM, AI-assisted development |
+| **Web** | React, Next.js, TypeScript, Tailwind CSS, Node.js |
+| **Backend & quality** | Prisma, PostgreSQL, Playwright, Git, Vercel |
+| **3D & motion** | three.js, React Three Fiber, GSAP, GLSL |
+| **Environment** | Ubuntu, Linux, Zsh, Python, Java, OpenCode, LiteLLM |
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -149,14 +108,12 @@ keep building
 
 ## `selected-work`
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| [**Ihya-iacsas**](https://github.com/Abdellah-mouida/Ihya-iacsas) | Bilingual community platform for Ihyaa Program | TypeScript · Next.js |
-| [**zx**](https://github.com/Abdellah-mouida/zx) | Personal portfolio and interactive visual experiments | TypeScript |
-| [**XMusic**](https://github.com/Abdellah-mouida/XMusic) | Animated terminal music player for local audio | Python |
-| [**NewPipe**](https://github.com/Abdellah-mouida/NewPipe) | NewPipe Android fork and interface experiments | Java |
-| [**Hiworld-v1-client**](https://github.com/Abdellah-mouida/Hiworld-v1-client) | Front end for a social platform to publish and review posts | CSS · React |
-| [**Hiworld-v1-server**](https://github.com/Abdellah-mouida/Hiworld-v1-server) | Back-end companion for Hiworld | JavaScript |
+| Project | Focus |
+|:--|:--|
+| [**Ihya-iacsas**](https://github.com/Abdellah-mouida/Ihya-iacsas) | Bilingual community platform · Next.js |
+| [**zx**](https://github.com/Abdellah-mouida/zx) | Personal portfolio · 3D and motion |
+| [**XMusic**](https://github.com/Abdellah-mouida/XMusic) | Animated Python terminal music player |
+| [**NewPipe**](https://github.com/Abdellah-mouida/NewPipe) | Android fork · UI redesign |
 
 <p align="center">
   <a href="https://github.com/Abdellah-mouida?tab=repositories">
@@ -170,7 +127,7 @@ keep building
 
 ## `github-dashboard` / live profile snapshots
 
-These cards are generated from GitHub's API and stored in this repository. No external stats-card hosting service is needed.
+Live GitHub snapshots, generated and hosted right here.
 
 <p align="center">
   <img src="./assets/stats-overview.svg" width="100%" alt="GitHub profile statistics: public repositories, stars, followers, and contributions"/>
@@ -194,21 +151,13 @@ These cards are generated from GitHub's API and stored in this repository. No ex
   <img src="./assets/divider.svg" width="100%" alt=""/>
 </p>
 
-## `developer.log` / important discoveries
+## `developer.log`
 
-<div align="center">
-
-| Encounter | Engineering response |
-|:--|:--|
-| “It should only take five minutes.” | `scope_creep.detected()` |
-| The bug disappears when the debugger opens. | It knows. |
-| One tiny CSS change breaks the whole layout. | `z-index: 999999;` (the ancient ritual) |
-| “I'll refactor this later.” | A tale as old as `TODO`. |
-
-</div>
+- “Works on my machine.” — then ship the machine.
+- CSS is just a negotiation between `z-index` values.
 
 <p align="center">
-  <strong>Current status:</strong> <code>building...</code> &nbsp; <code>coffee: low</code> &nbsp; <code>tabs: 37</code>
+  <strong>Currently:</strong> building · debugging · refilling coffee
 </p>
 
 <p align="center">
