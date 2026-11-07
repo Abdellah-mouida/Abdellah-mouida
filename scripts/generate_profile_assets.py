@@ -190,7 +190,7 @@ def write_stats(metrics, contribution_total, contribution_label):
 def write_languages(languages: Counter):
     ranked = languages.most_common(7)
     total = sum(languages.values())
-    svg = [svg_header(1000, 260, "LANGUAGES / THE TOOLBOX", "Aggregated by bytes across public, non-fork repositories")]
+    svg = [svg_header(1000, 370, "LANGUAGES / THE TOOLBOX", "Aggregated by bytes across public, non-fork repositories")]
     if not ranked or total <= 0:
         svg.append('<text x="30" y="125" fill="#A8BCD5" font-family="sans-serif" font-size="15">Language data is warming up. The next scheduled refresh will try again.</text>')
     else:
@@ -200,12 +200,13 @@ def write_languages(languages: Counter):
             percent = amount * 100 / total
             color = palette[index % len(palette)]
             bar_width = max(2, 900 * percent / 100)
-            svg.append(f'<text x="30" y="{y+3}" fill="#DCE9F8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">{html.escape(name)}</text>')
-            svg.append(f'<text x="968" y="{y+3}" text-anchor="end" fill="#94AAC6" font-family="monospace" font-size="12">{percent:.1f}%</text>')
-            svg.append(f'<rect x="30" y="{y+13}" width="938" height="7" rx="3.5" fill="#1A2A40"/>')
-            svg.append(f'<rect x="30" y="{y+13}" width="{bar_width:.2f}" height="7" rx="3.5" fill="{color}"/>')
-            y += 23
+            svg.append(f'<text x="30" y="{y+4}" fill="#DCE9F8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">{html.escape(name)}</text>')
+            svg.append(f'<text x="968" y="{y+4}" text-anchor="end" fill="#94AAC6" font-family="monospace" font-size="12">{percent:.1f}%</text>')
+            svg.append(f'<rect x="30" y="{y+14}" width="938" height="8" rx="4" fill="#1A2A40"/>')
+            svg.append(f'<rect x="30" y="{y+14}" width="{bar_width:.2f}" height="8" rx="4" fill="{color}"><animate attributeName="width" from="0" to="{bar_width:.2f}" dur="1.1s" fill="freeze"/></rect>')
+            y += 37
     svg.append("</svg>")
+    svg.append('<text x="30" y="352" fill="#607D9E" font-family="monospace" font-size="9">MORE BREATHING ROOM. SAME AMOUNT OF NERD.</text>')
     (ASSETS / "top-languages.svg").write_text("\n".join(svg), encoding="utf-8")
 
 
