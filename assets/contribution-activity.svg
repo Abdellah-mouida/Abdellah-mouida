@@ -25,7 +25,6 @@
 <text x="726" y="75" fill="#718BA9" font-family="Inter,Arial,sans-serif" font-size="10">Aug</text>
 <text x="806" y="75" fill="#718BA9" font-family="Inter,Arial,sans-serif" font-size="10">Sep</text>
 <text x="870" y="75" fill="#718BA9" font-family="Inter,Arial,sans-serif" font-size="10">Oct</text>
-<rect x="118" y="99" width="12" height="12" rx="3" fill="#172537"><title>2025-11-11: 0</title></rect>
 <rect x="118" y="115" width="12" height="12" rx="3" fill="#172537"><title>2025-11-12: 0</title></rect>
 <rect x="118" y="131" width="12" height="12" rx="3" fill="#172537"><title>2025-11-13: 0</title></rect>
 <rect x="118" y="147" width="12" height="12" rx="3" fill="#172537"><title>2025-11-14: 0</title></rect>
@@ -389,6 +388,7 @@
 <rect x="934" y="163" width="12" height="12" rx="3" fill="#91C8FF"><title>2026-11-07: 32</title></rect>
 <rect x="934" y="179" width="12" height="12" rx="3" fill="#172537"><title>2026-11-08: 0</title></rect>
 <rect x="950" y="83" width="12" height="12" rx="3" fill="#172537"><title>2026-11-09: 0</title></rect>
+<rect x="950" y="99" width="12" height="12" rx="3" fill="#172537"><title>2026-11-10: 0</title></rect>
 <circle cx="140" cy="211" r="3" fill="#172537"/><text x="149" y="215" fill="#718BA9" font-family="Inter,Arial,sans-serif" font-size="10">Less</text>
 <rect x="194" y="208" width="9" height="9" rx="2" fill="#1B4777"/>
 <rect x="212" y="208" width="9" height="9" rx="2" fill="#2865A8"/>
